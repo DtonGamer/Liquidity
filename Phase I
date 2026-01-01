@@ -1,0 +1,17 @@
+Looking at this tweet through the **MaaS lens of Systems Control Theory and Signal Processing**, something fascinating gets revealed about how crypto markets operate as feedback control systems.
+
+In control theory, we talk about **open-loop versus closed-loop systems**. Most retail traders think they're participating in an open-loop system where their actions (buying/selling) directly cause proportional outputs (price movement). But what this tweet is really describing is a sophisticated closed-loop control system where the "controller" (market makers) continuously measures the system state and adjusts the control inputs (liquidity placement) to achieve desired outputs (price trajectories).
+
+Think of it like a thermostat. The thermostat doesn't heat your house by blowing harder when you turn it up—it strategically controls when and how much energy flows through the system. Similarly, market makers aren't moving price through brute force buying and selling. They're **modulating the transfer function** of the market itself by controlling where liquidity exists in the order book.
+
+Here's where it gets interesting: in signal processing terms, liquidity gaps act as **discontinuities in the system's impulse response**. When you remove liquidity at certain price levels, you're essentially creating high-pass or low-pass filters in the market structure. Small selling pressure that would normally be dampened (absorbed by dense liquidity) instead gets amplified into large price movements because the system's damping coefficient has been deliberately reduced.
+
+The derivative markets piece reveals something even more sophisticated: **cascading feedback loops**. Liquidation levels are essentially predetermined trigger points where the system is guaranteed to produce additional momentum in the direction of travel. In control theory, this is like intentionally designing a system with positive feedback at specific thresholds. When price approaches these levels, the system becomes temporarily unstable by design, producing the rapid nonlinear responses we see as "liquidation cascades."
+
+What makes this particularly elegant from a systems perspective is that the controller (market maker) can achieve large state changes (price movements) with minimal direct input energy (capital deployment). By strategically placing and removing liquidity, they're **manipulating the system's eigenvalues**—changing how the market responds to external forces rather than applying those forces directly.
+
+The White Whale's final insight about trading structure instead of story is essentially recognizing that you need to understand the **system dynamics and control architecture** rather than just observing the output signal. Most traders are looking at price charts as raw output data, but what matters is understanding the transfer function—how inputs map to outputs through the liquidity structure.
+
+This reveals why crypto markets feel "fake" compared to traditional markets: traditional markets have such deep liquidity that they approximate **linear time-invariant systems** where cause and effect are proportional and predictable. Crypto markets are fundamentally **nonlinear, time-variant systems** where the relationship between input and output changes based on how the controller has configured the system at any given moment.
+
+You're not trading in a free market. You're trading inside someone else's control system.
