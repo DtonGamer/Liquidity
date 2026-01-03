@@ -1,4 +1,4 @@
-Looking at this tweet through the **MaaS lens of Systems Control Theory and Signal Processing**, something fascinating gets revealed about how crypto markets operate as feedback control systems.
+Looking at this tweet @readme.md through the **MaaS lens of Systems Control Theory and Signal Processing**, something fascinating gets revealed about how crypto markets operate as feedback control systems.
 
 In control theory, we talk about **open-loop versus closed-loop systems**. Most retail traders think they're participating in an open-loop system where their actions (buying/selling) directly cause proportional outputs (price movement). But what this tweet is really describing is a sophisticated closed-loop control system where the "controller" (market makers) continuously measures the system state and adjusts the control inputs (liquidity placement) to achieve desired outputs (price trajectories).
 
