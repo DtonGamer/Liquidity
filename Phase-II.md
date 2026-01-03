@@ -1,6 +1,4 @@
-Let me search for more specific examples of these manipulation tactics in action.
-
-Okay, now I have concrete examples! Let me break down what The White Whale's tweet is actually describing using real-world cases that have happened in crypto markets.
+Let me break down what The White Whale's tweet is actually describing using real-world cases that have happened in crypto markets.
 
 ## The Control Theory Framework Made Real
 
